@@ -2,6 +2,7 @@
 
 Tools Used: Microsoft Excel (PivotTables, PivotCharts, XLOOKUP, SUMIFS, Slicers)
 
+
 Description:
 Built a professional-grade Excel dashboard to analyze and visualize coffee sales data, delivering actionable insights into product performance, customer trends, and sales metrics.
 
@@ -23,3 +24,4 @@ Additional Enhancements:
 Conducted profit margin analysis, comparing revenue vs. profit across product categories for better financial insights.
 
 Integrated customer segmentation analysis and implemented trend forecasting to offer predictive insights.
+
