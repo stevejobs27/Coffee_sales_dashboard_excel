@@ -2,6 +2,7 @@
 
 Tools Used: Microsoft Excel (PivotTables, PivotCharts, XLOOKUP, SUMIFS, Slicers)
 
+![final output image](https://github.com/stevejobs27/Coffee_sales_dashboard_excel/blob/main/finaloutput.png)
 
 Description:
 Built a professional-grade Excel dashboard to analyze and visualize coffee sales data, delivering actionable insights into product performance, customer trends, and sales metrics.
