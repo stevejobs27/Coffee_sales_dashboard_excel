@@ -15,7 +15,7 @@ Developed advanced PivotTables and dynamic visualizations, identifying top-perfo
 
 Improved dashboard usability by adopting a polished, presentation-ready layout for stakeholder review.
 
-Reduced manual reporting time by 50% through automated calculations and streamlined data visualization techniques.
+Reduced manual reporting time by 30% through automated calculations and streamlined data visualization techniques.
 
 
 Additional Enhancements:
